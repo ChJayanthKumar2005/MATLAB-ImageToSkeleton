@@ -15,7 +15,7 @@ MATLAB-ImageToSkeleton is a MATLAB-based project for extracting skeleton masks f
 1. Ensure you have MATLAB installed.
 2. Clone this repository:
    
-   git clone https://github.com/yourusername/MATLAB-SkelMask.git
+   git clone https://github.com/ChJayanthKumar2005/MATLAB-ImageToSkeleton.git
    
 3. Navigate to the project folder and open MATLAB.
 
