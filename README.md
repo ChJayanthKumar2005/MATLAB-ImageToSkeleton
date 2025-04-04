@@ -31,6 +31,7 @@ MATLAB-ImageToSkeleton is a MATLAB-based project for extracting skeleton masks f
 3. The output will display the skeletonized version of the object.
 
 📷 Example Output
+
 Its is attached
 
 🛠 Requirements
